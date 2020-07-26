@@ -10,9 +10,11 @@ pkg install python2
 pip2 install requests bs4
 ```
 
-## Run script
-```
+## Jalankan skrip
+`` `
 cd mbf
+unzip mbf-master.zip
+mbf-master
 python2 bismillah.py
 ```
 
